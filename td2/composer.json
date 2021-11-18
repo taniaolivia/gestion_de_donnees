@@ -1,0 +1,15 @@
+{
+  "require": {
+    "illuminate/database": "8.15.*",
+    "php": ">=7.3.0",
+    "slim/slim": "3.*",
+    "ext-json": "*"
+  },
+
+  "autoload": {
+    "psr-4": {
+      "td1\\": "./src",
+      "conf\\": "src/conf"
+    }}
+
+}

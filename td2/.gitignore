@@ -1,0 +1,4 @@
+/vendor/
+/mysql/
+/.idea/
+composer.lock
