@@ -1,5 +1,7 @@
 # TD2-ORM
 
+<h3>Auteur : Tania OLIVIA</h3>
+
 <h1>Consignes</h1>
 
 <ol>
