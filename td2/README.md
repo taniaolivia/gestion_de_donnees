@@ -21,7 +21,7 @@
 
 <h1>Lien utiles</h1>
 <address>
-    <p><a href="https://github.com/taniaolivia/gestion_de_donnees.git">Lien Github</a></p>
+    <p><a href="https://github.com/taniaolivia/gestion_de_donnees">Lien Github</a></p>
 </address>
 
 
