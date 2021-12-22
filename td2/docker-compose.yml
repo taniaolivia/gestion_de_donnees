@@ -3,7 +3,7 @@ version: '3'
 services:
 
   nginx:
-    container_name: nginx_td2
+    container_name: td2-nginx
     image: nginx:stable-alpine
     ports:
       - '8080:80'
@@ -18,7 +18,7 @@ services:
       - back-network
 
   php:
-    container_name: php_td2
+    container_name: td2-php
     build:
       context: ./build/docker/php
     ports:
